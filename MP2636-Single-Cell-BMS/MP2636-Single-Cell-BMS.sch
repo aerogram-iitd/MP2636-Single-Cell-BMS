@@ -119,6 +119,149 @@ DIN A4, landscape with location and doc. field</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="MP2636GR-P">
+<packages>
+<package name="IC_MP2636GR-P">
+<wire x1="-2.05" y1="2.05" x2="2.05" y2="2.05" width="0.127" layer="51"/>
+<wire x1="2.05" y1="2.05" x2="2.05" y2="-2.05" width="0.127" layer="51"/>
+<wire x1="2.05" y1="-2.05" x2="-2.05" y2="-2.05" width="0.127" layer="51"/>
+<wire x1="-2.05" y1="-2.05" x2="-2.05" y2="2.05" width="0.127" layer="51"/>
+<wire x1="-2.215" y1="2.315" x2="-1.5" y2="2.315" width="0.127" layer="21"/>
+<wire x1="-2.215" y1="1.9" x2="-2.215" y2="2.315" width="0.127" layer="21"/>
+<wire x1="2.215" y1="-2.315" x2="1.5" y2="-2.315" width="0.127" layer="21"/>
+<wire x1="2.215" y1="-1.9" x2="2.215" y2="-2.315" width="0.127" layer="21"/>
+<wire x1="2.215" y1="2.315" x2="1.5" y2="2.315" width="0.127" layer="21"/>
+<wire x1="2.215" y1="1.9" x2="2.215" y2="2.315" width="0.127" layer="21"/>
+<wire x1="-2.215" y1="-2.315" x2="-1.5" y2="-2.315" width="0.127" layer="21"/>
+<wire x1="-2.215" y1="-1.9" x2="-2.215" y2="-2.315" width="0.127" layer="21"/>
+<wire x1="-2.55" y1="2.55" x2="2.55" y2="2.55" width="0.05" layer="39"/>
+<wire x1="2.55" y1="2.55" x2="2.55" y2="-2.55" width="0.05" layer="39"/>
+<wire x1="2.55" y1="-2.55" x2="-2.55" y2="-2.55" width="0.05" layer="39"/>
+<wire x1="-2.55" y1="-2.55" x2="-2.55" y2="2.55" width="0.05" layer="39"/>
+<circle x="-2.9" y="1.8" radius="0.1" width="0.2" layer="21"/>
+<circle x="-2.9" y="1.8" radius="0.1" width="0.2" layer="51"/>
+<text x="-3.81" y="2.54" size="1.778" layer="25">&gt;NAME</text>
+<text x="-3.81" y="-4.445" size="1.778" layer="27">&gt;VALUE</text>
+<smd name="4" x="-1.9" y="0.2" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="19" x="1.9" y="0.2" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="5" x="-1.9" y="-0.2" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="6" x="-1.9" y="-0.6" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="7" x="-1.9" y="-1" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="3" x="-1.9" y="0.6" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="2" x="-1.9" y="1" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="20" x="1.9" y="0.6" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="21" x="1.9" y="1" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="18" x="1.9" y="-0.2" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="17" x="1.9" y="-0.6" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="16" x="1.9" y="-1" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="26" x="-0.2" y="1.9" dx="0.2" dy="0.8" layer="1" rot="R180"/>
+<smd name="27" x="-0.6" y="1.9" dx="0.2" dy="0.8" layer="1" rot="R180"/>
+<smd name="28" x="-1" y="1.9" dx="0.2" dy="0.8" layer="1" rot="R180"/>
+<smd name="25" x="0.2" y="1.9" dx="0.2" dy="0.8" layer="1" rot="R180"/>
+<smd name="24" x="0.6" y="1.9" dx="0.2" dy="0.8" layer="1" rot="R180"/>
+<smd name="23" x="1" y="1.9" dx="0.2" dy="0.8" layer="1" rot="R180"/>
+<smd name="11" x="-0.2" y="-1.9" dx="0.2" dy="0.8" layer="1" rot="R180"/>
+<smd name="10" x="-0.6" y="-1.9" dx="0.2" dy="0.8" layer="1" rot="R180"/>
+<smd name="9" x="-1" y="-1.9" dx="0.2" dy="0.8" layer="1" rot="R180"/>
+<smd name="12" x="0.2" y="-1.9" dx="0.2" dy="0.8" layer="1" rot="R180"/>
+<smd name="13" x="0.6" y="-1.9" dx="0.2" dy="0.8" layer="1" rot="R180"/>
+<smd name="14" x="1" y="-1.9" dx="0.2" dy="0.8" layer="1" rot="R180"/>
+<smd name="30" x="0" y="0" dx="1.8" dy="0.3" layer="1"/>
+<smd name="29" x="0" y="0.6" dx="1.8" dy="0.3" layer="1"/>
+<smd name="1_1" x="-1.7" y="1.75" dx="0.4" dy="0.5" layer="1"/>
+<smd name="1" x="-1.9" y="1.4" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="8" x="-1.9" y="-1.4" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="15" x="1.9" y="-1.4" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="22" x="1.9" y="1.4" dx="0.2" dy="0.8" layer="1" rot="R90"/>
+<smd name="22_1" x="1.7" y="1.75" dx="0.4" dy="0.5" layer="1"/>
+<smd name="8_1" x="-1.7" y="-1.75" dx="0.4" dy="0.5" layer="1"/>
+<smd name="15_1" x="1.7" y="-1.75" dx="0.4" dy="0.5" layer="1"/>
+</package>
+</packages>
+<symbols>
+<symbol name="MP2636GR-P">
+<wire x1="0" y1="50.8" x2="48.26" y2="50.8" width="0.1524" layer="94"/>
+<wire x1="48.26" y1="50.8" x2="48.26" y2="0" width="0.1524" layer="94"/>
+<wire x1="48.26" y1="0" x2="0" y2="0" width="0.1524" layer="94"/>
+<wire x1="0" y1="0" x2="0" y2="50.8" width="0.1524" layer="94"/>
+<text x="-5.08" y="51.308" size="1.778" layer="95">&gt;NAME</text>
+<text x="-5.08" y="-2.54" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="IB" x="40.64" y="55.88" length="middle" direction="pas" rot="R270"/>
+<pin name="SW" x="53.34" y="45.72" length="middle" direction="out" rot="R180"/>
+<pin name="SYS" x="20.32" y="55.88" length="middle" direction="out" rot="R270"/>
+<pin name="VIN" x="-5.08" y="43.18" length="middle" direction="in"/>
+<pin name="ILIM" x="10.16" y="-5.08" length="middle" direction="in" rot="R90"/>
+<pin name="TMR" x="33.02" y="-5.08" length="middle" direction="in" rot="R90"/>
+<pin name="PWIN" x="-5.08" y="33.02" length="middle" direction="in"/>
+<pin name="REG" x="-5.08" y="38.1" length="middle" direction="in"/>
+<pin name="!ACOK" x="53.34" y="25.4" length="middle" direction="out" rot="R180"/>
+<pin name="FB" x="30.48" y="55.88" length="middle" direction="in" rot="R270"/>
+<pin name="NTC" x="53.34" y="10.16" length="middle" direction="pas" rot="R180"/>
+<pin name="ISET" x="17.78" y="-5.08" length="middle" direction="in" rot="R90"/>
+<pin name="OLIM" x="25.4" y="-5.08" length="middle" direction="pas" rot="R90"/>
+<pin name="AGND" x="40.64" y="-5.08" length="middle" direction="pwr" rot="R90"/>
+<pin name="VB" x="-5.08" y="12.7" length="middle" direction="pwr"/>
+<pin name="!BOOST" x="53.34" y="15.24" length="middle" direction="out" rot="R180"/>
+<pin name="CSP" x="53.34" y="40.64" length="middle" direction="in" rot="R180"/>
+<pin name="!CHG" x="53.34" y="20.32" length="middle" direction="out" rot="R180"/>
+<pin name="MODE" x="-5.08" y="17.78" length="middle" direction="in"/>
+<pin name="BATT" x="53.34" y="35.56" length="middle" direction="pwr" rot="R180"/>
+<pin name="VCC" x="-5.08" y="27.94" length="middle" direction="pwr"/>
+<pin name="EN" x="-5.08" y="22.86" length="middle" direction="in"/>
+<pin name="FREQ" x="-5.08" y="7.62" length="middle" direction="in"/>
+<pin name="PGND" x="10.16" y="55.88" length="middle" direction="pwr" rot="R270"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="MP2636GR-P" prefix="U">
+<description>Ic Batt Charger Li-Ion Sgl 30qfn &lt;a href="https://pricing.snapeda.com/parts/MP2636GR-P/Monolithic%20Power/view-part?ref=eda"&gt;Check prices&lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="MP2636GR-P" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="IC_MP2636GR-P">
+<connects>
+<connect gate="G$1" pin="!ACOK" pad="10"/>
+<connect gate="G$1" pin="!BOOST" pad="22 22_1"/>
+<connect gate="G$1" pin="!CHG" pad="23"/>
+<connect gate="G$1" pin="AGND" pad="15 15_1"/>
+<connect gate="G$1" pin="BATT" pad="17"/>
+<connect gate="G$1" pin="CSP" pad="18"/>
+<connect gate="G$1" pin="EN" pad="25"/>
+<connect gate="G$1" pin="FB" pad="11"/>
+<connect gate="G$1" pin="FREQ" pad="26"/>
+<connect gate="G$1" pin="IB" pad="1 1_1"/>
+<connect gate="G$1" pin="ILIM" pad="6"/>
+<connect gate="G$1" pin="ISET" pad="13"/>
+<connect gate="G$1" pin="MODE" pad="24"/>
+<connect gate="G$1" pin="NTC" pad="12"/>
+<connect gate="G$1" pin="OLIM" pad="14"/>
+<connect gate="G$1" pin="PGND" pad="27 28"/>
+<connect gate="G$1" pin="PWIN" pad="7"/>
+<connect gate="G$1" pin="REG" pad="9"/>
+<connect gate="G$1" pin="SW" pad="2 21"/>
+<connect gate="G$1" pin="SYS" pad="3 20 29"/>
+<connect gate="G$1" pin="TMR" pad="8 8_1"/>
+<connect gate="G$1" pin="VB" pad="16"/>
+<connect gate="G$1" pin="VCC" pad="5"/>
+<connect gate="G$1" pin="VIN" pad="4 19 30"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="AVAILABILITY" value="Warning"/>
+<attribute name="DESCRIPTION" value=" Charger IC Lithium Ion/Polymer 30-QFN (4x4) "/>
+<attribute name="MF" value="Monolithic Power"/>
+<attribute name="MP" value="MP2636GR-P"/>
+<attribute name="PACKAGE" value="QFN-30 Monolithic Power"/>
+<attribute name="PRICE" value="None"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MP2636GR-P/?ref=eda"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -130,6 +273,7 @@ DIN A4, landscape with location and doc. field</description>
 </classes>
 <parts>
 <part name="FRAME1" library="frames" deviceset="A4L-LOC" device=""/>
+<part name="U1" library="MP2636GR-P" deviceset="MP2636GR-P" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -140,6 +284,10 @@ DIN A4, landscape with location and doc. field</description>
 <attribute name="DRAWING_NAME" x="217.17" y="15.24" size="2.54" layer="94"/>
 <attribute name="LAST_DATE_TIME" x="217.17" y="10.16" size="2.286" layer="94"/>
 <attribute name="SHEET" x="230.505" y="5.08" size="2.54" layer="94"/>
+</instance>
+<instance part="U1" gate="G$1" x="106.68" y="71.12" smashed="yes">
+<attribute name="NAME" x="101.6" y="122.428" size="1.778" layer="95"/>
+<attribute name="VALUE" x="101.6" y="68.58" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
